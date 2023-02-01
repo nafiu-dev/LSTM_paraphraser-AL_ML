@@ -1,0 +1,9 @@
+pandas
+BeautifulSoup
+nltk
+matplotlib
+numpy 
+scipy 
+pickle
+tensorflow
+keras
